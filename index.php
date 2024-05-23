@@ -164,6 +164,7 @@ mysqli_close($con);
     </div><br>
     <a href="#" id="prev-btn" class="next-btn">Previous</a>
     <a href="#" id="next-btn" class="next-btn">Next</a>
+    <a href="admin/index.php" id="next-btn" class="next-btn">Admin</a>
 </div>
 
 <script>
